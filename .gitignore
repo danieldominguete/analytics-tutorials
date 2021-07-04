@@ -1,3 +1,11 @@
+# Garbage files
+data
+notebooks/_toRead
+
+# Pycharm
+.idea
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
